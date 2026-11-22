@@ -9,7 +9,7 @@ Repository ini berisi implementasi tahapan *text preprocessing* pada dataset ula
 - **Dataset:** [`dipawidia/ecommerce-product-reviews-sentiment`](https://huggingface.co/datasets/dipawidia/ecommerce-product-reviews-sentiment)
 
 ## Struktur Repository
-- `preprocessing_ulasan_ecommerce.ipynb` : File Jupyter Notebook berisi pemuatan dataset, eksplorasi informasi dataset (jumlah baris, kolom, dan distribusi label sentimen), pipeline preprocessing 5 tahap, 10 contoh teks sebelum dan sesudah preprocessing, serta analisis pengaruh preprocessing.
+- `tugas_nlp_arkan.ipynb` : File Jupyter Notebook berisi pemuatan dataset, eksplorasi informasi dataset (jumlah baris, kolom, dan distribusi label sentimen), pipeline preprocessing 5 tahap, 10 contoh teks sebelum dan sesudah preprocessing, serta analisis pengaruh preprocessing.
 - `README.md` : Dokumentasi identitas mahasiswa dan panduan penggunaan repository.
 
 ## Tahapan Preprocessing yang Diterapkan
